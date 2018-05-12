@@ -1,10 +1,16 @@
 _repo: Haiti-Its-dawn-of-progress-after-years-in-a-night-of-revolution_47511
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47511-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Kuser, J. Dryden
     gutenberg_agent_id: '44358'
     url: http://www.gutenberg.org/2009/agents/44358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47511#Haiti-Its-dawn-of-progress-after-years-in-a-night-of-revolution
 gutenberg_issued: '2014-12-02'
 gutenberg_type: Text
 identifiers:
